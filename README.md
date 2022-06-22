@@ -16,8 +16,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="C" width="26px" src = "https://cdn-icons.flaticon.com/png/512/3665/premium/3665923.png?token=exp=1652416174~hmac=237e3d2401e34eb52b8fe4aeac41c544" style="padding-right:10px;" />
-
+<img align="left" alt="C" width="26px" src = "https://img.icons8.com/color/48/000000/c-programming.png" style="padding-right:10px;" />
 <img align="left" alt="C++" width="26px" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/919/919854.png" style="padding-right:10px;" />
 <img align="left" alt="HTML" width="26px" src="https://cdn-icons-png.flaticon.com/512/888/888859.png" style="padding-right:10px;" />
@@ -31,6 +30,7 @@
 &nbsp;&nbsp;
 
 ### Connect with me:
-[<img align = "left" width = "22px" src = "https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/naveen-kumar-vunnam-9a064b177/)
-[<img align = "left" width = "22px" src = "https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>](https://www.instagram.com/naveen_kumar1.61/)
-[<img align = "left" width = "22px" src = "https://img.icons8.com/color/48/000000/facebook-new.png"?token=exp=1652412933~hmac=c2c09b64036c6f0930dbf97f3fc08d15"/>](https://www.facebook.com/Naveenkumar219/)
+[<img align = "left" width = "22px" height = "22px" src = "https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/naveen-kumar-vunnam-9a064b177/)
+[<img align = "left" width = "22px"  height = "22px" src = "https://cdn-icons-png.flaticon.com/512/2111/2111463.png"/>](https://www.instagram.com/naveen_kumar1.61/)
+[<img align = "left" width = "22px" height = 
+"22px" src = "https://img.icons8.com/color/48/000000/facebook-new.png"/>](https://www.facebook.com/Naveenkumar219/)
