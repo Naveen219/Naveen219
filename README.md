@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Naveen219&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-I'm a Senior Software Engineer in Hyderabad, India. For the last 4+ years I've built software for capital markets trading: low-latency trading systems, event-driven microservices, and more recently AI tools that make developers faster.
+I'm a Senior Software Engineer in Hyderabad, India. For the last 4+ years I've built software for capital markets trading: low-latency trading systems, event-driven microservices, and more recently agentic AI workflows.
 
 I prefer vim over emacs and tabs over spaces.
 
