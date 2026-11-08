@@ -21,11 +21,6 @@ More about my work is on my [portfolio](https://naveen219.github.io/naveen-kumar
 ### GitHub stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naveen219/Naveen219/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
-  <img src="https://raw.githubusercontent.com/Naveen219/Naveen219/master/profile-summary-card-output/github/0-profile-details.svg" alt="Contribution summary" width="100%" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naveen219/Naveen219/master/profile-summary-card-output/github_dark/3-stats.svg" />
   <img src="https://raw.githubusercontent.com/Naveen219/Naveen219/master/profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%" />
 </picture>
