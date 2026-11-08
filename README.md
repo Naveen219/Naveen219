@@ -1,64 +1,35 @@
-<h1 align="center">Hi 👋, I'm Naveen Kumar Vunnam</h1>
-<h3 align="center">A passionate Full Stack Java Developer</h3>
+## Hi, I'm Naveen Kumar Vunnam
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveen219&label=Profile%20views&color=0e75b6&style=flat" alt="naveen219" /> </p>
+<img src="https://komarev.com/ghpvc/?username=Naveen219&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-- 🌱 I’m currently learning **Angular, Spring Boot**
+I'm a Senior Software Engineer in Hyderabad, India. For the last 4+ years I've built software for capital markets trading: low-latency trading systems, event-driven microservices, and more recently agentic AI workflows.
 
-- 📫 How to reach me **naveennavy219@gmail.com**
+More about my work is on my [portfolio](https://naveen219.github.io/naveen-kumar-vunnam/).
 
-- ⚡ Fun fact **I love listening to Music and watching Stand-up comedy**
+### Tools I Use Most
 
- <h3 align="left">Languages and Tools:</h3>
-<p align="left">
- 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
- 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  
-  </a> 
-   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer">
-</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/naveen-kumar-vunnam-9a064b177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naveen-kumar-vunnam-9a064b177" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13163286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13163286" height="30" width="40" /></a>
-<a href="https://fb.com/naveenkumar219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="naveenkumar219" height="30" width="40" /></a>
-<a href="https://instagram.com/naveen_kumar1.61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naveen_kumar1.61" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/naveen219" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="naveen219" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/naveen_1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="naveen_1729" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/naveen_1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="naveen_1729" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/naveen1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="naveen1729" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@naveen_1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@naveen_1729" height="30" width="40" /></a>
-</p>
 <p>
-          <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen219&show_icons=true&locale=en&layout=compact" alt="naveen219" /></p>
-<p>&nbsp;
-  <img  align = "left"  alt="Naveen Kumar Vunnam's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Naveen219&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
- </p>
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,kubernetes,openshift,githubactions,grafana,python&perline=9" alt="Java, Spring, Kafka, Redis, Kubernetes, OpenShift, GitHub Actions, Grafana, Python" />
+</p>
 
+### Certifications and Research Work
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveen219&" alt="naveen219" /></p>
+- Oracle Certified Professional, Java SE 11 (2025)
+- Microsoft Azure Fundamentals, AZ-900 (2022)
+- [Securing Data Communication Using Blockchain](https://www.researchgate.net/publication/372529973_SECURING_DATA_COMMUNICATION_USING_BLOCKCHAIN) (2023), a paper built on Python, Django and IPFS
+
+### GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naveen219/Naveen219/master/profile-summary-card-output/github_dark/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/Naveen219/Naveen219/master/profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Naveen219/Naveen219/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/Naveen219/Naveen219/master/profile-summary-card-output/github/1-repos-per-language.svg" alt="Top languages by repo" width="49%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Naveen219&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Naveen219&hide_border=true" alt="GitHub streak" width="100%" />
+</picture>
