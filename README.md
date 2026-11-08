@@ -12,7 +12,7 @@ More about my work is on my [portfolio](https://naveen219.github.io/naveen-kumar
   <img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,kubernetes,openshift,githubactions,grafana,python&perline=9" alt="Java, Spring, Kafka, Redis, Kubernetes, OpenShift, GitHub Actions, Grafana, Python" />
 </p>
 
-### Certifications and writing
+### Certifications and research work
 
 - Oracle Certified Professional, Java SE 11 (2025)
 - Microsoft Azure Fundamentals, AZ-900 (2022)
