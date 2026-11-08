@@ -4,14 +4,9 @@
 
 I'm a Senior Software Engineer in Hyderabad, India. For the last 4+ years I've built software for capital markets trading: low-latency trading systems, event-driven microservices, and more recently agentic AI workflows.
 
+More about my work is on my [portfolio](https://naveen219.github.io/naveen-kumar-vunnam/).
+
 I prefer vim over emacs and tabs over spaces.
-
-### What I've been working on
-
-- Event-driven microservices in Java and Spring Boot, using Kafka and Redis, deployed to Kubernetes and OpenShift with Helm and GitHub Actions
-- A multi-agent framework that writes Spring Boot integration tests. Teams use it across 80+ microservices, and it cut test-writing effort by roughly 30-40%
-- Cut pricing and risk latency by 20% with Redis and Kafka
-- Made deployment validation 80% faster and moved 10+ services to OpenShift
 
 ### Tools I use most
 
