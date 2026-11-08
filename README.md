@@ -33,7 +33,3 @@ More about my work is on my [portfolio](https://naveen219.github.io/naveen-kumar
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Naveen219&theme=dark&hide_border=true" />
   <img src="https://streak-stats.demolab.com/?user=Naveen219&hide_border=true" alt="GitHub streak" width="100%" />
 </picture>
-
-### Get in Touch
-
-[Portfolio](https://naveen219.github.io/naveen-kumar-vunnam/) · [LinkedIn](https://www.linkedin.com/in/naveen-kumar-vunnam/) · [Email](mailto:naveennavy219@gmail.com)
