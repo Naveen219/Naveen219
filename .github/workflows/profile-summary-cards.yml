@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 0 * * *" # once a day at 00:00 UTC
   workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/profile-summary-cards.yml
+
+concurrency: profile-stats-cards
 
 jobs:
   build:
@@ -12,8 +17,38 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+
+      # The action clears its output folder on every run, so generate one
+      # theme at a time and set the first aside while the second is built.
+      - name: Generate light cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
+          THEME: github
+          AUTO_PUSH: false
+
+      - run: mv profile-summary-card-output/github "$RUNNER_TEMP/github"
+
+      - name: Generate dark cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: github_dark
+          AUTO_PUSH: false
+
+      - name: Commit if anything changed
+        run: |
+          mv "$RUNNER_TEMP/github" profile-summary-card-output/github
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A profile-summary-card-output
+          if git diff --cached --quiet; then
+            echo "Cards unchanged"
+          else
+            git commit -m "Refresh profile stats cards"
+            git push
+          fi
