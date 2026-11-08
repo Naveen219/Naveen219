@@ -6,8 +6,6 @@ I'm a Senior Software Engineer in Hyderabad, India. For the last 4+ years I've b
 
 More about my work is on my [portfolio](https://naveen219.github.io/naveen-kumar-vunnam/).
 
-I prefer vim over emacs and tabs over spaces.
-
 ### Tools I use most
 
 <p>
