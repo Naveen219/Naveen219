@@ -1,6 +1,8 @@
 ## Hi, I'm Naveen
 
-I'm a Senior Software Engineer at Wells Fargo in Hyderabad, India. For the last 4+ years I've built software for capital markets trading desks: low-latency trading systems, event-driven microservices, and more recently AI tools that make developers faster.
+<img src="https://komarev.com/ghpvc/?username=Naveen219&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+I'm a Senior Software Engineer in Hyderabad, India. For the last 4+ years I've built software for capital markets trading: low-latency trading systems, event-driven microservices, and more recently AI tools that make developers faster.
 
 I prefer vim over emacs and tabs over spaces.
 
@@ -25,11 +27,26 @@ Plus Helm for deployments.
 - Microsoft Azure Fundamentals, AZ-900 (2022)
 - [Securing Data Communication Using Blockchain](https://www.researchgate.net/publication/372529973_SECURING_DATA_COMMUNICATION_USING_BLOCKCHAIN) (2023), a paper built on Python, Django and IPFS
 
-### Recognition
+### GitHub stats
 
-- Manager Spotlight Award (3x) and Team Spotlight Award at Wells Fargo
-- Won the GitHub Code Innovation Hackathon (50+ participants)
-- Qualified for Google Code Jam
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg" />
+  <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Contribution summary" width="100%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg" />
+  <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Top languages by repo" width="49%" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Naveen219&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Naveen219&hide_border=true" alt="GitHub streak" width="100%" />
+</picture>
 
 ### Get in touch
 
