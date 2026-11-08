@@ -19,8 +19,6 @@ I prefer vim over emacs and tabs over spaces.
   <img src="https://skillicons.dev/icons?i=java,spring,kafka,redis,kubernetes,openshift,githubactions,grafana,python&perline=9" alt="Java, Spring, Kafka, Redis, Kubernetes, OpenShift, GitHub Actions, Grafana, Python" />
 </p>
 
-Plus Helm for deployments.
-
 ### Certifications and writing
 
 - Oracle Certified Professional, Java SE 11 (2025)
